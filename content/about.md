@@ -1,10 +1,7 @@
-About this site
+Om denna sida
 ==============================================
+Denna sida är skapad genom att använda mallen "Anax Flat" och används till kursen Design vid BTH.
 
-The primary focus of this site is to:
+Min Anax Flat på [Github](https://github.com/ragren/anax-flat)
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
-
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+![Lite kod](img/code.jpg)

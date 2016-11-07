@@ -1,14 +1,21 @@
 ---
 titleBreadcrumb: Home
+views:
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
 ...
-A website using Anax Flat
+Välkommen till min Anax Flat hemsida
 ===============================
 
-Hi there.
+Hej!
+Mitt namn är Rasmus Ågren, jag är 26 år gammal och studerar webbprogrammering vid BTH.
+Detta är startsidan på min Anax Flat hemsida!
+/Rasmus
 
-Nice of you to stop by.
-
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
-
-Cheers and happy building of websites,  
-/Mikael
+![Bild på mig](img/pic.JPG)

@@ -1,4 +1,3 @@
-####Troubleshoot
+####Github konto
 
-* [Gitter Chat](https://gitter.im/mosbth/design)
-* [GitHub Issues](https://github.com/canax/anax-flat/issues)
+[ragren](https://github.com/ragren)

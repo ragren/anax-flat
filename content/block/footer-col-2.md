@@ -1,4 +1,3 @@
-####Download
+####Senast uppdaterad
 
-* [GitHub](https://github.com/canax/anax-flat)
-* [Packagist](https://packagist.org/packages/mos/anax-flat)
+2016-11-07

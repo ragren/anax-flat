@@ -1,5 +1,5 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2016 Rasmus Ågren | r.agren (at) icloud.com
 
-* [License](license)
-* [Cookies](cookies)
-* [Contact](contact)
+* [Licens](license)
+* [Kakor](cookies)
+* [Kontakt](contact)
